@@ -1,0 +1,70 @@
+<mxfile host="Electron" modified="2024-07-06T15:06:30.221Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.6.4 Chrome/124.0.6367.207 Electron/30.0.6 Safari/537.36" etag="776XucIfA1l-ssWUdu-C" version="24.6.4" type="device">
+  <diagram name="Page-1" id="u2xc82KejuX1nbkqzzLr">
+    <mxGraphModel dx="1026" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="yqpZkEJ_nO4eKXKSjoz8-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="yqpZkEJ_nO4eKXKSjoz8-2" target="yqpZkEJ_nO4eKXKSjoz8-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yqpZkEJ_nO4eKXKSjoz8-2" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="40" y="190" width="140" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="yqpZkEJ_nO4eKXKSjoz8-3" value="Approaching a machine learning problem" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="110" y="140" width="440" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yqpZkEJ_nO4eKXKSjoz8-4" value="Select training supervision the model will need" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="45" y="200" width="135" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yqpZkEJ_nO4eKXKSjoz8-5" value="Supervised" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="250" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yqpZkEJ_nO4eKXKSjoz8-6" value="Semi-supervised" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="59.5" y="284" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yqpZkEJ_nO4eKXKSjoz8-7" value="Self-supervised" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="354" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yqpZkEJ_nO4eKXKSjoz8-8" value="Unsupervised" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="59.5" y="319" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yqpZkEJ_nO4eKXKSjoz8-10" value="Reinforcment&lt;div&gt;Learning&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="387" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yqpZkEJ_nO4eKXKSjoz8-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="yqpZkEJ_nO4eKXKSjoz8-11" target="yqpZkEJ_nO4eKXKSjoz8-18">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="460" y="380" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="385" y="310" />
+              <mxPoint x="385" y="310" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yqpZkEJ_nO4eKXKSjoz8-11" value="" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="230" y="250" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="yqpZkEJ_nO4eKXKSjoz8-14" value="Type of Problem" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="230" y="254" width="117.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yqpZkEJ_nO4eKXKSjoz8-15" value="Classification&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start; text-wrap: nowrap;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22Supervised%22%20style%3D%22rounded%3D1%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%2260%22%20y%3D%22250%22%20width%3D%22100%22%20height%3D%2230%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="284" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yqpZkEJ_nO4eKXKSjoz8-16" value="Regression" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="324" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yqpZkEJ_nO4eKXKSjoz8-18" value="" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="410" y="250" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="yqpZkEJ_nO4eKXKSjoz8-19" value="Learning Technique" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="410" y="254" width="117.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yqpZkEJ_nO4eKXKSjoz8-20" value="Online" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="284" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yqpZkEJ_nO4eKXKSjoz8-21" value="Batch" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="324" width="100" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
